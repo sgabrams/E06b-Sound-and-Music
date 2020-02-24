@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/doh_wav_cut.wav-1b255ea628b842358d2baf342d132956.sample"
+
+[deps]
+
+source_file="res://assets/doh_wav_cut.wav"
+dest_files=[ "res://.import/doh_wav_cut.wav-1b255ea628b842358d2baf342d132956.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
